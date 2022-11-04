@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A passionate Software Developer from Ukraine</h3>
 
-- 🔭 I’m currently working on **my school and freelace projects**
+- 🔭 I’m currently working on **my school and freelance projects**
 
 - 🌱 I’m currently learning **Java, Express, Unity**
 
