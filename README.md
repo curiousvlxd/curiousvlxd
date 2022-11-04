@@ -1,7 +1,7 @@
 
 [![@curiousvlad's Holopin board](https://holopin.me/curiousvlad)](https://holopin.io/@curiousvlad)
 
-### Hi there, I'm Vlad 👋
+<h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A passionate Software Developer from Ukraine</h3>
 
 - 🔭 I’m currently working on **my school and work projects**
@@ -13,10 +13,6 @@
 - 💬 Ask me about **.NET**
 
 - 📫 How to reach me **vlxdtimchenko@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curiousvlxd&show_icons=true&locale=en" alt="curiousvlxd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousvlxd&" alt="curiousvlxd" /></p>
-
 
 <!--
 **curiousvlxd/curiousvlxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
