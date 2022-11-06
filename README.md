@@ -35,10 +35,6 @@
 
 ![snake gif](https://github.com/curiousvlxd/curiousvlxd/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="left">👻 &nbsp;Random joke:</h3>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <!--
 **curiousvlxd/curiousvlxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
