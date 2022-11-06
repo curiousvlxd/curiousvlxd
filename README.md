@@ -34,6 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousvlxd&theme=gruvbox" alt="curiousvlxd" /></p>
 
+![snake gif](https://github.com/curiousvlxd/curiousvlxd/blob/output/github-contribution-grid-snake.gif)
 <!--
 **curiousvlxd/curiousvlxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
