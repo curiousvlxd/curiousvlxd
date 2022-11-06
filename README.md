@@ -1,7 +1,8 @@
 [![@curiousvlad's Holopin board](https://holopin.me/curiousvlad)](https://holopin.io/@curiousvlad)
 
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">A passionate Software Developer from Ukraine</h3>
+
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FD8018&background=FF000000&width=700&height=60&lines=A+passionate+Software+Developer+from+Ukraine" alt="Typing SVG" /></a></h3>
 
 - 🔭 I’m currently working on **my school and freelance projects**
 
@@ -29,12 +30,15 @@
 
 <h3 align="left">⚙️ &nbsp;GitHub Analytics & Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousvlxd&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="curiousvlxd" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curiousvlxd&show_icons=true&locale=en&theme=gruvbox" alt="curiousvlxd" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousvlxd&theme=gruvbox" alt="curiousvlxd" /></p>
 
 ![snake gif](https://github.com/curiousvlxd/curiousvlxd/blob/output/github-contribution-grid-snake.svg)
+
+<h3 align="left">👻 &nbsp;Random joke:</h3>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--
 **curiousvlxd/curiousvlxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
