@@ -30,7 +30,7 @@
 
 <h3 align="left">⚙️ &nbsp;GitHub Analytics & Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curiousvlxd&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="curiousvlxd" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=curiousvlxd&show_icons=true&locale=en&theme=gruvbox" alt="curiousvlxd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curiousvlxd&show_icons=true&locale=en&theme=gruvbox" alt="curiousvlxd" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousvlxd&theme=gruvbox" alt="curiousvlxd" /></p>
 
 ![snake gif](https://github.com/curiousvlxd/curiousvlxd/blob/output/github-contribution-grid-snake.svg)
