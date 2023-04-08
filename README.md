@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my school and freelance projects**
 
-- 🌱 I’m currently learning **Java, Express, Unity**
+- 🌱 I’m currently learning **.NET, Unity**
 
 - 👯 I’m looking to collaborate on [Warp](https://github.com/warpdotdev/Warp)
 
