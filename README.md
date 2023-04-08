@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Warp](https://github.com/warpdotdev/Warp)
 
-- 💬 Ask me about **.NET**
+- 💬 Ask me about **ChatGPT**
 
 - 📫 How to reach me **vlxdtimchenko@gmail.com**
 
