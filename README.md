@@ -36,4 +36,4 @@
 
 <div><img style="height: auto; width: 50%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousvlxd&theme=gruvbox" alt="curiousvlxd" /></div>
 
-![snake gif](https://github.com/curiousvlxd/curiousvlxd/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/curiousvlxd/curiousvlxd/blob/output/github-contribution-grid-snake.gif)
