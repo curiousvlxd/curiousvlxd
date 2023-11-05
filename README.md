@@ -4,7 +4,7 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FD8018&background=FF000000&width=756&height=60&lines=A+passionate+Software+Developer+from+Ukraine" alt="Typing SVG" /></a></h3>
 
-- 🔭 I’m currently working on **my school and freelance projects**
+- 🔭 I’m currently working on **my job and freelance projects**
 
 - 🌱 I’m currently learning **.NET**
 
