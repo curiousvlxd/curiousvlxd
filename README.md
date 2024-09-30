@@ -4,25 +4,22 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FD8018&background=FF000000&width=756&height=60&lines=A+passionate+Software+Developer+from+Ukraine" alt="Typing SVG" /></a></h3>
 
-- 🔭 I’m currently working on **my job and freelance projects**
+- 🔭 I’m currently working at **[Manul Technologies](https://www.linkedin.com/company/manuloil/mycompany/)**
 
 - 🌱 I’m currently learning **.NET**
 
 - 👯 I’m looking to collaborate on [Warp](https://github.com/warpdotdev/Warp)
 
-- 💬 Ask me about **ChatGPT**
+- 💬 Ask me about **microservices, time series, and event sourcing**
 
 - 📫 How to reach me **vlxdtimchenko@gmail.com**
 
 <h3 align="left">🤝🏻 &nbsp;Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/curiousvlxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="curiousvlxd" height="30" width="40" /></a>
 <a href="https://dev.to/curiousvlxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="curiousvlxd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vladtimchenkoprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladtimchenkoprofile" height="30" width="40" /></a>
 <a href="https://medium.com/@vlxdtimchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vlxdtimchenko" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/curiousvlxd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="curiousvlxd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/curiousvlxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="curiousvlxd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/curiousvlxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="curiousvlxd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠 &nbsp;Languages & Tools:</h3>
@@ -41,4 +38,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
