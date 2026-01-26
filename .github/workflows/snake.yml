@@ -1,4 +1,4 @@
-name: Generate Snake and LinkedIn Badge
+name: Generate Snake
 
 on:
   schedule:
@@ -28,17 +28,3 @@ jobs:
           commit_message: "chore: update snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  linkedin-badge:
-    uses: curiousvlxd/linkedin-badge-renderer/.github/workflows/export.yml@main
-    with:
-      handle: "vladtimchenko"
-      format: "svg"
-      out: "dist/linkedin-badge.svg"
-      theme: "dark"
-      size: "large"
-      locale: "en_US"
-      orientation: "HORIZONTAL"
-      pad: 20
-      output_branch: "output"
-      commit_message: "chore: update linkedin badge"
