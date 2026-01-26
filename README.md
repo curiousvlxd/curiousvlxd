@@ -2,19 +2,29 @@
   <img src="https://raw.githubusercontent.com/curiousvlxd/curiousvlxd/main/assets/curiousvlxd-banner.jpg" alt="Vlad Logo Banner" style="max-width: 100%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=60&pause=10000&color=1F9486&center=true&vCenter=true&width=2900&height=100&lines=.NET+Engineer+%7C+Designing+Microservices+%C2%B7+Delivering+Cloud-Native+Solutions" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=60&pause=10000&color=1F9486&center=true&vCenter=true&width=2900&height=100&lines=.NET+Engineer+%C2%B7+Designing+Microservices+%C2%B7+Delivering+Cloud-Native+Solutions" alt="Typing SVG" /></a></h3>
+
+<a href="https://www.linkedin.com/in/vladtimchenko/" target="_blank">
+  <img src="https://raw.githubusercontent.com/curiousvlxd/curiousvlxd/linkedin-badge/output.svg" width="500"/>
+</a>
 
 - 💼 Software Engineer at [PrivatBank](https://linkedin.com/company/privatbank)
 
-- 🎓 CS graduate (2019–2023) · Commercial development since 2021
+- 🎓 Bachelor's in Computer Science (2019–2023) · Building production systems since 2021
 
-- 🌐 Focused on microservices, time-series, and event sourcing
+- 🚀 Designing and operating cloud-native .NET microservices
 
-- 🧠 Currently diving deeper into .NET
+- ☁️ Working with GCP, AWS, and distributed systems · Coach at Grow Your Career with Google Cloud (2025)
 
-- 📫 Reach me at: vlxdtimchenko@gmail.com
+- ⚙️ Building reliable and high-performance backend systems
 
-<h3 align="left">🤝🏻 &nbsp;Connect with me:</h3>
+- 🏆 Hackathons: HYS (1st/2nd/3rd place), Hack X AI participant (DEV Challenge)
+
+- 📫 Email: [vlxdtimchenko@gmail.com](mailto:vlxdtimchenko@gmail.com)
+
+- 💬 Telegram: [@curiousvlxd](https://t.me/curiousvlxd)
+
+<h3 align="left">🤝🏻 &nbsp;Socials:</h3>
 <p align="left">
 <a href="https://dev.to/curiousvlxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="curiousvlxd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vladtimchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladtimchenkoprofile" height="30" width="40" /></a>
@@ -105,7 +115,7 @@
   </a>
 
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"" alt="RabbitMQ" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40"/>
@@ -166,10 +176,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/curiousvlxd/curiousvlxd/snk/output-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/curiousvlxd/curiousvlxd/snk/output-light.svg">
     <img alt="github contribution grid snake animation"
-         src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+         src="https://raw.githubusercontent.com/curiousvlxd/curiousvlxd/snk/output-light.svg"
          style="width: 100%; max-width: 1000px;" />
   </picture>
 </p>
