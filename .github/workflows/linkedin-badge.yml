@@ -14,7 +14,7 @@ jobs:
     with:
       handle: "vladtimchenko"
       format: "svg"
-      out: "linkedin-badge.svg"
+      out: "dist/linkedin-badge.svg"
       theme: "dark"
       size: "large"
       locale: "en_US"
