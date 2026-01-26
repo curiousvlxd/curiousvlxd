@@ -1,0 +1,24 @@
+name: Export LinkedIn Badge
+
+on:
+  schedule:
+    - cron: "15 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  badge:
+    uses: curiousvlxd/linkedin-badge-renderer/.github/workflows/export.yml@main
+    with:
+      handle: "vladtimchenko"
+      format: "svg"
+      out: "linkedin-badge.svg"
+      theme: "dark"
+      size: "large"
+      locale: "en_US"
+      orientation: "HORIZONTAL"
+      pad: 20
+      output_branch: "output"
+      commit_message: "chore: update linkedin badge"
