@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/curiousvlxd/curiousvlxd/main/assets/curiousvlxd-banner.jpg" alt="Vlad Logo Banner" style="max-width: 100%;" />
+  <a href="https://vladtimchenko.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/curiousvlxd/curiousvlxd/main/assets/curiousvlxd-banner.png" alt="Vlad Timchenko – Personal Website" style="max-width: 100%;" />
+  </a>
 </p>
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=60&pause=10000&color=1F9486&center=true&vCenter=true&width=2900&height=100&lines=.NET+Engineer+%C2%B7+Designing+Microservices+%C2%B7+Delivering+Cloud-Native+Solutions" alt="Typing SVG" /></a></h3>
@@ -23,6 +25,8 @@
 - 📫 Email: [vlxdtimchenko@gmail.com](mailto:vlxdtimchenko@gmail.com)
 
 - 💬 Telegram: [@curiousvlxd](https://t.me/curiousvlxd)
+
+- 🌐 My website: [vladtimchenko.dev](https://vladtimchenko.dev)
 
 <h3 align="left">🤝🏻 &nbsp;Socials:</h3>
 <p align="left">
