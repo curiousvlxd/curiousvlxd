@@ -22,7 +22,7 @@
 
 - 🏆 Hackathons: HYS (1st/2nd/3rd place), Hack X AI participant (DEV Challenge)
 
-- 📫 Email: [vlxdtimchenko@gmail.com](mailto:vlxdtimchenko@gmail.com)
+- 📫 Email: [contact@vladtimchenko.dev](mailto:contact@vladtimchenko.dev)
 
 - 💬 Telegram: [@curiousvlxd](https://t.me/curiousvlxd)
 
