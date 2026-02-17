@@ -14,13 +14,16 @@
 
 - 🎓 Bachelor's in Computer Science (2019–2023) · Building production systems since 2021
 
-- 🚀 Designing and operating cloud-native .NET microservices
+- 🚀 Designing and operating cloud-native .NET microservices at scale
 
-- ☁️ Working with GCP, AWS, and distributed systems · Coach at Grow Your Career with Google Cloud (2025)
+- ☁️ Architecting distributed systems across GCP, AWS, and Azure · Coach at Grow Your Career with Google Cloud (2025)
 
-- ⚙️ Building reliable and high-performance backend systems
+- ⚙️ Performance, reliability, and production-grade backend engineering
 
-- 🏆 Hackathons: HYS (1st/2nd/3rd place), Hack X AI participant (DEV Challenge)
+- 🏆 Hackathons:
+  - HYS Hackathon - 🥇 1st (2024) · 🥈 2nd (2023) · 🥉 3rd (2022)
+  - Hack X AI - DEV Challenge (2025)
+  - ActInSpace (Airbus / CNES, 2026)
 
 - 📫 Email: [contact@vladtimchenko.dev](mailto:contact@vladtimchenko.dev)
 
@@ -59,6 +62,9 @@
 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.tigerdata.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/8986001?s=200&v=4" alt="TimescaleDB / TigerData" width="40" height="40"/>
   </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
