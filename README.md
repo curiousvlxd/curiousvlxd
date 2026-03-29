@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/curiousvlxd/curiousvlxd/linkedin-badge/output.svg" width="500"/>
 </a>
 
-- 💼 Software Engineer at [PrivatBank](https://linkedin.com/company/privatbank)
+- 💼 Software Engineer at [Siemens Energy](https://www.linkedin.com/company/siemens-energy)
 
 - 🎓 Bachelor's in Computer Science (2019–2023) · Building production systems since 2021
 
@@ -23,7 +23,7 @@
 - 🏆 Hackathons:
   - HYS Hackathon - 🥇 1st (2024) · 🥈 2nd (2023) · 🥉 3rd (2022)
   - Hack X AI - DEV Challenge (2025)
-  - ActInSpace (Airbus / CNES, 2026)
+  - ActInSpace (Airbus/CNES, 2026)
 
 - 📫 Email: [contact@vladtimchenko.dev](mailto:contact@vladtimchenko.dev)
 
